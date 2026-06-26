@@ -1,0 +1,47 @@
+Projeto Final: Desenvolvimento de Página de Portfólio com interação
+Introdução
+Este documento visa orientar os alunos do 2º período do curso de Sistemas para Internet na elaboração do projeto final. O projeto consiste no desenvolvimento de uma página de portfólio em HTML CSS, JAVASCRIPT e algum fremwork, para uma empresa real. Este projeto proporcionará aos alunos a oportunidade de aplicar os conhecimentos adquiridos durante o semestre em um contexto prático.
+
+Objetivo
+O objetivo do projeto é criar uma página de portfólio que mostre os serviços, produtos, e/ou projetos realizados pela empresa selecionada, utilizando HTML CSS, JAVASCRIPT e algum fremwork. A página deve ser funcional, atraente e representar adequadamente a identidade visual da empresa.
+
+Requisitos do Projeto
+1.	Estrutura HTML:
+o	A página deve ser composta por um código HTML bem estruturado, utilizando tags semânticas.
+o	Deve incluir cabeçalho, rodapé, navegação, e seções principais como "Sobre", "Serviços/Produtos", "Portfólio" e "Contato".
+2.	Estilos CSS:
+o	Utilização de CSS para estilizar a página, garantindo um design moderno e responsivo.
+o	Deve incluir estilos para diferentes dispositivos (mobile, tablet, desktop).
+3.	Identidade Visual:
+o	A página deve refletir a identidade visual da empresa, utilizando cores, fontes e logotipos apropriados.
+o	Deve ser visualmente atraente e fácil de navegar.
+4.	Funcionalidades:
+o	Links de navegação funcionais.
+o	Formulário de contato (não é necessário implementar o envio, apenas a estrutura HTML e estilização).
+
+Entregáveis
+•	Código Fonte: O código HTML CSS, JAVASCRIPT e algum fremwork da página deve ser entregue em um repositório no GitHub.
+•	Apresentação: Uma apresentação da página desenvolvida deverá ser realizada 15 dias antes do término do semestre.
+ 
+Prazo
+O projeto deve ser entregue e apresentado até (esperar a publicação do novo calendario), que é 15 dias antes do término do semestre.
+
+Avaliação
+Os projetos serão avaliados com base nos seguintes critérios:
+
+•	Estrutura e organização do código.
+•	Qualidade e consistência do design.
+•	Adequação à identidade visual da empresa.
+•	Funcionalidade e usabilidade da página.
+•	Clareza e organização da apresentação.
+
+Dicas para o Desenvolvimento
+•	Planejamento: Antes de começar a codificar, planeje a estrutura da página e defina a identidade visual da empresa.
+•	Pesquisa: Analise páginas de portfólio existentes para se inspirar em boas práticas de design e estrutura.
+•	Teste: Teste a página em diferentes dispositivos e navegadores para garantir a responsividade e compatibilidade.
+•	Revisão: Revise o código e a página final para corrigir possíveis erros e melhorar a qualidade.
+
+Conclusão
+Este projeto final é uma oportunidade para vocês aplicarem os conhecimentos adquiridos durante o semestre em um contexto prático e real. Dedique tempo e esforço para criar uma página de portfólio que seja funcional, atraente e represente bem a empresa selecionada. Estamos ansiosos para ver o resultado do trabalho de vocês!
+
+Boa sorte!
